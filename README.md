@@ -17,3 +17,5 @@ https://dsc.gg/antaresnetwork
 
 # Credits
 -  All code written by [Nate Goldsborough](https://github.com/nathen418) , and [Seth Traman](https://github.com/StickyFingies)
+
+Dated: February 3, 2015
